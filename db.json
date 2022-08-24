@@ -6,8 +6,8 @@
             "type": "Android",
             "enviroment": "Production",
             "starttime": "4 minutes ago",
-            "notification": "enebled",
-            "status": "pending",
+            "notification": "Enebled",
+            "status": "Pending",
             "action": "visible"
         },
         {
@@ -16,8 +16,8 @@
             "type": "IOS",
             "enviroment": "Production",
             "starttime": "4 minutes ago",
-            "notification": "disabled",
-            "status": "inprogress",
+            "notification": "Disabled",
+            "status": "Inprogress",
             "action": "visible"
         },
         {
@@ -26,9 +26,9 @@
             "type": "Web",
             "enviroment": "Staging",
             "starttime": "4 minutes ago",
-            "notification": "enebled",
-            "status": "completed",
-            "action": "visible"
+            "notification": "Enebled",
+            "status": "Completed",
+            "action": "Visible"
         },
         {
             "name": "My first test",
@@ -36,9 +36,9 @@
             "type": "API",
             "enviroment": "Production",
             "starttime": "4 minutes ago",
-            "notification": "enebled",
-            "status": "pending",
-            "action": "visible"
+            "notification": "Enebled",
+            "status": "Pending",
+            "action": "Visible"
         }
     ]
 }
