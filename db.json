@@ -150,7 +150,7 @@
         {
             "id": "#234704",
             "title": "The flow of quickly adding a document to a link to a document to the group is interupted if the user clicks + more documents inthe search pop-up",
-            "status": "in review",
+            "status": "inReview",
             "features": "Auth: Create account modal",
             "test": "12 hours ago",
             "severity": "low"
@@ -174,7 +174,7 @@
         {
             "id": "#234704",
             "title": "The flow of quickly adding a document to a link to a document to the group is interupted if the user clicks + more documents inthe search pop-up",
-            "status": "in review",
+            "status": "inReview",
             "features": "Auth: Create account modal",
             "test": "1 day ago",
             "severity": "medium"
