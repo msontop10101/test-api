@@ -120,5 +120,64 @@
             "status": "Pending",
             "action": "Visible"
         }
+    ],
+
+    "bugList": [
+        {
+            "id": "#234704",
+            "title": "The flow of quickly adding a document to a link to a document to the group is interupted if the user clicks + more documents inthe search pop-up",
+            "status": "approved",
+            "features": "Auth: Create account modal",
+            "test": "6 minute ago",
+            "severity": "high"
+        },
+        {
+            "id": "#234704",
+            "title": "The flow of quickly adding a document to a link to a document to the group is interupted if the user clicks + more documents inthe search pop-up",
+            "status": "declined",
+            "features": "Auth: Create account modal",
+            "test": "4 hours ago",
+            "severity": "medium"
+        },
+        {
+            "id": "#234704",
+            "title": "The flow of quickly adding a document to a link to a document to the group is interupted if the user clicks + more documents inthe search pop-up",
+            "status": "approved",
+            "features": "Auth: Create account modal",
+            "test": "10 hours ago",
+            "severity": "high"
+        },
+        {
+            "id": "#234704",
+            "title": "The flow of quickly adding a document to a link to a document to the group is interupted if the user clicks + more documents inthe search pop-up",
+            "status": "in review",
+            "features": "Auth: Create account modal",
+            "test": "12 hours ago",
+            "severity": "low"
+        },
+        {
+            "id": "#234704",
+            "title": "The flow of quickly adding a document to a link to a document to the group is interupted if the user clicks + more documents inthe search pop-up",
+            "status": "delcined",
+            "features": "Auth: Create account modal",
+            "test": "16 hours ago",
+            "severity": "high"
+        },
+        {
+            "id": "#234704",
+            "title": "The flow of quickly adding a document to a link to a document to the group is interupted if the user clicks + more documents inthe search pop-up",
+            "status": "approved",
+            "features": "Auth: Create account modal",
+            "test": "20 hours ago",
+            "severity": "critical"
+        },
+        {
+            "id": "#234704",
+            "title": "The flow of quickly adding a document to a link to a document to the group is interupted if the user clicks + more documents inthe search pop-up",
+            "status": "in review",
+            "features": "Auth: Create account modal",
+            "test": "1 day ago",
+            "severity": "medium"
+        }
     ]
 }
