@@ -158,7 +158,7 @@
         {
             "id": "#234704",
             "title": "The flow of quickly adding a document to a link to a document to the group is interupted if the user clicks + more documents inthe search pop-up",
-            "status": "delcined",
+            "status": "declined",
             "features": "Auth: Create account modal",
             "test": "16 hours ago",
             "severity": "high"
